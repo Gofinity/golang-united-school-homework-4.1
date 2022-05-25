@@ -1,4 +1,4 @@
-package main
+package homework
 
 func ReverseString(input string) (output string) {
 
